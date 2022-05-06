@@ -5,6 +5,8 @@ This is my personal portfolio and I decided to build it from a blank canvas usin
 
  ** This is a still a work in progress and plan on building it up even more from here. Stay tuned!! **
 
+## Click to view my [portfolio](https://google.com)
+
 ## Technologies used:
 - HTML
 - CSS 
